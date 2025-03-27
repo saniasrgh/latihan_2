@@ -1,0 +1,39 @@
+body{
+    font-family: Poppins;
+    font-weight: 600;
+}
+.ti{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+}
+a{
+    color: white;
+}
+.h{
+    background-color: orangered;
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+.opening{
+    background-color: bisque;
+    width: 70%;
+    height: 400px;
+    float: left;
+}
+p{
+    margin-left: auto;
+    margin-top: 30px;
+    margin-right: auto;
+    width: 90%;
+}
+.footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    clear: both;
+}
